@@ -1,1 +1,2 @@
 # scalable-config-generator
+由scalabel格式车道线检测数据集生成可用scalable进行标注修改的配置文件
